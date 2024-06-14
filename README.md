@@ -1,5 +1,9 @@
 # Inputs and Datasets for manure temperature model development
 
+The related research: 
+Li, B., Qi, Z., Smith, W.N., VanderZaag, A.V., Grant, B.B., 2024. Improving CH4 emission simulation for liquid manure storage tanks: Development of a manure temperature model in Manure-DNDC (Under Review)
+
+
 For model inputs: 
 
 - Manure-DNDC model scenario files: __Fraser_ch4_vv6.dnd__
